@@ -8,9 +8,6 @@ imcsdk
 .. image:: https://img.shields.io/travis/vijayvikrant/imcsdk.svg
         :target: https://travis-ci.org/vijayvikrant/imcsdk
 
-.. image:: https://readthedocs.org/projects/imcsdk/badge/?version=latest
-        :target: https://readthedocs.org/projects/imcsdk/?badge=latest
-        :alt: Documentation Status
 
 
 Python SDK for Cisco Ucs IMC
